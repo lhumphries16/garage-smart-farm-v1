@@ -132,22 +132,32 @@ The private development repository remains private because it contains machine-s
 ## Repository map
 
 ```text
-docs/       final case-study PDFs
+docs/       final commercial and technical case-study PDFs
 data/       reviewed and sanitized public data extracts
 analysis/   reviewed commercial-feasibility workbook
-figures/    selected figures
 images/     selected project photographs
 ```
 
-## Files currently published
+## Public archive
 
+### Reports
+- [Commercial feasibility case study](docs/Garage_Farm_Commercial_Case_Study.pdf)
+- [Technical case study](docs/Garage_Vision_Technical_Case_Study.pdf)
+
+### Analysis
+- [Commercial feasibility model](analysis/Garage_Basil_Commercial_Feasibility_Model.xlsx)
+
+### Reviewed data
 - [Reviewed harvest dataset](data/harvests_reviewed.csv)
 - [Selected farm-event timeline](data/farm_events_selected.csv)
 - [Final structured site map](data/final_site_map.csv)
-- [Environmental daily summary](data/environment_daily.csv)
+- [Selected environmental daily summary](data/environment_daily.csv)
 - [Data dictionary](data/DATA_DICTIONARY.md)
 
-The binary case studies, workbook, figures, and photo set come from the frozen final project bundle and are intentionally kept separate from the private development repository.
+### Project photos
+See the curated [images/](images/) directory for the physical build, root-mass failure mode, harvests, specialty cultivars, and camera/network context.
+
+These files come from the frozen final project bundle and reviewed analysis layer. Editable source documents, intermediate reports, raw databases, and private development artifacts are intentionally excluded.
 
 ## Portfolio
 
