@@ -33,9 +33,9 @@ Structured rack site state from the final reviewed source ledger. The public ext
 
 ## environment_daily.csv
 
-Daily aggregate temperature/humidity summary derived from the high-frequency logger record. The raw high-frequency environmental file is intentionally omitted from the public archive to keep the repository compact.
+Selected daily aggregate temperature/humidity rows from the final high-frequency logger archive. This public extract currently includes the final seven operating days (Sep 11-17, 2026), not the complete logger history. The frozen private archive contains 99,866 environmental readings.
 
-Logger coverage is discontinuous. Missing periods are preserved as missing data rather than interpolated.
+The full 9.8 MB raw logger CSV is intentionally omitted from this public repository. Logger coverage is discontinuous; missing periods are preserved as missing data rather than interpolated.
 
 ## Important geometry
 
